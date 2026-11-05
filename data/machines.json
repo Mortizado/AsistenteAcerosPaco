@@ -1,0 +1,36 @@
+
+{
+  "maquinas": [
+    {
+      "id": 1,
+      "nombre": "Cizalla",
+      "piezas": [
+        {
+          "id": 1,
+          "nombre": "Rodamiento",
+          "referencia": "ROD-001",
+          "par_apriete": 45,
+          "repuestos": 4
+        },
+        {
+          "id": 2,
+          "nombre": "Cuchilla",
+          "referencia": "CUC-001",
+          "repuestos": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Plegadora",
+      "piezas": [
+        {
+          "id": 3,
+          "nombre": "Cilindro hidráulico",
+          "referencia": "CIL-001",
+          "repuestos": 1
+        }
+      ]
+    }
+  ]
+}
